@@ -1,0 +1,5 @@
+C:\Projekty\TIO\CRUD\RESTService\Model\bin\Debug\Model.dll
+C:\Projekty\TIO\CRUD\RESTService\Model\bin\Debug\Model.pdb
+C:\Projekty\TIO\CRUD\RESTService\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Projekty\TIO\CRUD\RESTService\Model\obj\Debug\Model.dll
+C:\Projekty\TIO\CRUD\RESTService\Model\obj\Debug\Model.pdb
